@@ -1,3 +1,4 @@
+from .pages.main_page import MainPage
 import time
 import pytest
 
